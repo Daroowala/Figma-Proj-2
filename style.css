@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.landing{
+    background-color: white;
+    width: 1007px;
+    height: 4101px;   
+}
+.navbar{
+    width: 1005px;
+    height: 120px;
+    background-color: aqua;
+    border: 1px solid black;
+}
