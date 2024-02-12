@@ -48,14 +48,7 @@ left: 75px;
     top: 110px;
     left: 500px;
 }
-.im2{
-    width: 200px;
-    height: 250px;
-    position: absolute;
-    top: -32px;
-    left: 150px;
-    
-}
+
 .im3{
     width: 330px;
     height: 120px;
@@ -63,19 +56,21 @@ left: 75px;
     top: 195px;
     left: 58px;
 }
-.bor2{
-    /* border: 1px solid black;
-    width: 1005px;
-    height: 120px;
-    position: absolute;
-    top: 483px; */
-}
+
 .vct1{
     width: 330px;
     height: 250px;
     position: absolute;
     top: -50px;
     left: 70px;
+}
+.im2{
+    width: 200px;
+    height: 250px;
+    position: absolute;
+    top: -32px;
+    left: 150px;
+    
 }
 .cloud{
     /* background-color: black; */
@@ -115,7 +110,7 @@ h1{
 .play2{
     position: absolute;
     top: 378px;
-    left: 250px;
+    left: 227px;
     width: 160px;
     height: 54px;
 }
