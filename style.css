@@ -10,6 +10,33 @@
 .navbar{
     width: 1005px;
     height: 120px;
-    /* background-color: aqua; */
     border: 1px solid black;
+}
+.img1{
+    margin: 25px 0px -8px 50px;
+}
+.navbar2{
+    display: flex;
+    justify-content: space-around;
+    margin: -27px 0px 0px 450px;
+}
+.help{
+    background-color: #75BF7A;
+    width: 90px;
+    height: 30px;
+    position: relative;
+    top: -6px;
+    left: -25px;
+}
+.Tere-benefits{
+    position: relative;
+    left: 15px;
+}
+.home{
+position: relative;
+left: 75px;
+}
+.How-tere-work{
+    position: relative;
+    left: 50px;
 }
