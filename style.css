@@ -3,14 +3,14 @@
     padding: 0px;
 }
 .landing{
-    background-color: white;
+    /* background-color: white; */
     width: 1007px;
     height: 4101px;   
 }
 .navbar{
-    width: 1005px;
+    /* width: 1005px;
     height: 120px;
-    border: 1px solid black;
+    border: 1px solid black; */
 }
 .img1{
     margin: 25px 0px -8px 50px;
@@ -39,4 +39,34 @@ left: 75px;
 .How-tere-work{
     position: relative;
     left: 50px;
+}
+.dv2{
+    border: 1px solid black;
+    width: 420px;
+    height: 372px;
+    position: absolute;
+    top: 110px;
+    left: 500px;
+}
+.im2{
+    width: 200px;
+    height: 250px;
+    position: absolute;
+    top: -32px;
+    left: 150px;
+    
+}
+.im3{
+    width: 330px;
+    height: 120px;
+    position: absolute;
+    top: 176px;
+    left: 58px;
+}
+.bor2{
+    border: 1px solid black;
+    width: 1005px;
+    height: 120px;
+    position: absolute;
+    top: 483px;
 }
