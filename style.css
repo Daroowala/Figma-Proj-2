@@ -189,3 +189,10 @@ fieldset {
   font-family: sans-serif;
   font-weight: 800;
 }
+.uplp1{
+  position: absolute;
+  top: 876px;
+  left: 160px;
+  text-align: right;
+  color: #9E9DA2;
+}
