@@ -196,3 +196,29 @@ fieldset {
   text-align: right;
   color: #9E9DA2;
 }
+.imgcir-2{
+  width: 40px;
+  position: absolute;
+  top: 800px;
+  left: 655px;
+}
+.imgcir2{
+  width: 11px;
+  position: absolute;
+  top: 812px;
+  left: 670px;
+}
+.uprh5{
+  position: absolute;
+  top: 852px;
+  left: 659px;
+  font-family: sans-serif;
+  font-weight: 800;
+}
+.uprp1{
+  position: absolute;
+  top: 876px;
+  left: 659px;
+  text-align: left;
+  color: #9E9DA2;
+}
