@@ -1,152 +1,165 @@
-*{
-    margin: 0px;
-    padding: 0px;
+* {
+  margin: 0px;
+  padding: 0px;
 }
-.landing{
-    /* background-color: white; */
-    width: 1007px;
-    height: 4101px;   
+.landing {
+  /* background-color: white; */
+  width: 1007px;
+  height: 4101px;
 }
-.navbar{
-    /* width: 1005px;
+.navbar {
+  /* width: 1005px;
     height: 120px;
     border: 1px solid black; */
 }
-.img1{
-    margin: 25px 0px -8px 50px;
+.img1 {
+  margin: 25px 0px -8px 50px;
 }
-.navbar2{
-    display: flex;
-    justify-content: space-around;
-    margin: -27px 0px 0px 450px;
+.navbar2 {
+  display: flex;
+  justify-content: space-around;
+  margin: -27px 0px 0px 450px;
 }
-.help{
-    background-color: #75BF7A;
-    width: 90px;
-    height: 30px;
-    position: relative;
-    top: -6px;
-    left: -25px;
+.help {
+  background-color: #75bf7a;
+  width: 90px;
+  height: 30px;
+  position: relative;
+  top: -6px;
+  left: -25px;
+  cursor: help;
 }
-.Tere-benefits{
-    position: relative;
-    left: 15px;
+.Tere-benefits {
+  position: relative;
+  left: 15px;
+  color: black;
+  text-decoration: none;
 }
-.home{
-position: relative;
-left: 75px;
+.home {
+  position: relative;
+  left: 75px;
+  color: black;
+  text-decoration: none;
 }
-.How-tere-work{
-    position: relative;
-    left: 50px;
+.How-tere-work {
+  position: relative;
+  left: 50px;
+  color: black;
+  text-decoration: none;
 }
-.dv2{
-    /* border: 1px solid black; */
-    width: 420px;
-    height: 372px;
-    position: absolute;
-    top: 110px;
-    left: 500px;
+.dv2 {
+  /* border: 1px solid black; */
+  width: 420px;
+  height: 372px;
+  position: absolute;
+  top: 110px;
+  left: 500px;
 }
 
-.im3{
-    width: 330px;
-    height: 120px;
-    position: absolute;
-    top: 195px;
-    left: 58px;
+.im3 {
+  width: 330px;
+  height: 120px;
+  position: absolute;
+  top: 195px;
+  left: 58px;
 }
 
-.vct1{
-    width: 330px;
-    height: 250px;
-    position: absolute;
-    top: -50px;
-    left: 70px;
+.vct1 {
+  width: 330px;
+  height: 250px;
+  position: absolute;
+  top: -50px;
+  left: 70px;
 }
-.im2{
-    width: 200px;
-    height: 250px;
-    position: absolute;
-    top: -32px;
-    left: 150px;
-    
+.im2 {
+  width: 200px;
+  height: 250px;
+  position: absolute;
+  top: -32px;
+  left: 150px;
 }
-.cloud{
-    /* background-color: black; */
-    position: absolute;
-    top: 44px;
-    left: 265px;
-    width: 80px;
-    height: 20px;
+.cloud {
+  /* background-color: black; */
+  position: absolute;
+  top: 44px;
+  left: 265px;
+  width: 80px;
+  height: 20px;
 }
-.sun{
-    position: absolute;
-    left: 295px;
-    top: 15px;
-    width: 25px;
-    height: 25px;
+.sun {
+  position: absolute;
+  left: 295px;
+  top: 15px;
+  width: 25px;
+  height: 25px;
 }
-h1{
-    position: absolute;
-    top: 145px;
-    left: 51px;
-   font-family: sans-serif;
-   font-weight: 800;
+h1 {
+  position: absolute;
+  top: 145px;
+  left: 51px;
+  font-family: sans-serif;
+  font-weight: 800;
 }
-.note{
-    position: absolute;
-    top: 295px;
-    left: 52px;
-    color: #8b8a8a;
+.note {
+  position: absolute;
+  top: 295px;
+  left: 52px;
+  color: #8b8a8a;
 }
-.play1{
-    position: absolute;
-    top: 378px;
-    left: 51px;
-    width: 160px;
-    height: 54px;
+.play1 {
+  position: absolute;
+  top: 378px;
+  left: 51px;
+  width: 160px;
+  height: 54px;
 }
-.play2{
-    position: absolute;
-    top: 378px;
-    left: 227px;
-    width: 160px;
-    height: 54px;
+.play2 {
+  position: absolute;
+  top: 378px;
+  left: 227px;
+  width: 160px;
+  height: 54px;
 }
-fieldset{
-    border: none;
-    background-color: #75BF7A;
-    height: 120px;
-    width: 902px;
-    position: absolute;
-    top: 470px;
-    left: 50px;
-    border-radius: 10px;
+fieldset {
+  border: none;
+  background-color: #75bf7a;
+  height: 120px;
+  width: 902px;
+  position: absolute;
+  top: 470px;
+  left: 50px;
+  border-radius: 10px;
 }
-.p1{
-    color: white;
-    position: absolute;
-    top: 43px;
-    left: 80px;
+.p1 {
+  color: white;
+  position: absolute;
+  top: 43px;
+  left: 80px;
 }
-.in1{
-    width: 300px;
-    height: 50px;
-    position: absolute;
-    top: 35px;
-    left: 315px;
-    text-align: center;
-    font-size: 16px;
-    border-radius: 4.5px;
+.in1 {
+  width: 300px;
+  height: 50px;
+  position: absolute;
+  top: 35px;
+  left: 315px;
+  text-align: center;
+  font-size: 16px;
+  border-radius: 4.5px;
 }
-.drive{
-    background-color: black;
-    width: 220px;
-    height: 53px;
-    position: absolute;
-    top: 36px;
-    left: 630px;
-    color: white;
-    border-radius: 4.5px;
+.drive {
+  background-color: black;
+  width: 220px;
+  height: 53px;
+  position: absolute;
+  top: 36px;
+  left: 630px;
+  color: white;
+  border-radius: 4.5px;
+  cursor: grab;
+}
+.how{
+  position: absolute;
+  top: 660px;
+  left: 415px;
+  width: 200px;
 }
