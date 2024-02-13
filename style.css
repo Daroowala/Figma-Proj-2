@@ -222,3 +222,13 @@ fieldset {
   text-align: left;
   color: #9E9DA2;
 }
+.circle{
+  border: 1px solid #75BF7A;
+  width: 250px;
+  height: 250px;
+  background-color: #75BF7A;
+  position: absolute;
+  top: 836px;
+  left: 377px;
+  border-radius: 100%;
+}
