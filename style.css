@@ -13,7 +13,7 @@
     border: 1px solid black; */
 }
 .img1 {
-  margin: 25px 0px -8px 50px;
+    margin: 25px 0px -8px 50px;
 }
 .navbar2 {
   display: flex;
@@ -283,4 +283,24 @@ fieldset {
   left: 655px;
   text-align: left;
   color: #9E9DA2;
+}
+.dots{
+  position: absolute;
+  top: 1170px;
+  left: 470px;
+}
+.terelogo{
+  position: absolute;
+  top: 1250px;
+  left: 350px;
+}
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.centered-border{
+  border: 2px solid black;
+  padding: 20px;
 }
