@@ -13,7 +13,7 @@
     border: 1px solid black; */
 }
 .img1 {
-    margin: 25px 0px -8px 50px;
+  margin: 25px 0px -8px 50px;
 }
 .navbar2 {
   display: flex;
@@ -157,144 +157,144 @@ fieldset {
   border-radius: 4.5px;
   cursor: grab;
 }
-.how{
+.how {
   position: absolute;
   top: 660px;
   left: 415px;
   width: 200px;
 }
-.app{
+.app {
   position: absolute;
   top: 695px;
   left: 330px;
   text-align: center;
-  color: #9E9DA2;
+  color: #9e9da2;
 }
-.imgcir{
+.imgcir {
   width: 40px;
   position: absolute;
   top: 800px;
   left: 310px;
 }
-.imgcir1{
+.imgcir1 {
   width: 8px;
   position: absolute;
   top: 812px;
   left: 325px;
 }
-.uplh5{
+.uplh5 {
   position: absolute;
   top: 852px;
   left: 222px;
   font-family: sans-serif;
   font-weight: 800;
 }
-.uplp1{
+.uplp1 {
   position: absolute;
   top: 876px;
   left: 160px;
   text-align: right;
-  color: #9E9DA2;
+  color: #9e9da2;
 }
-.imgcir-2{
+.imgcir-2 {
   width: 40px;
   position: absolute;
   top: 800px;
   left: 655px;
 }
-.imgcir2{
+.imgcir2 {
   width: 11px;
   position: absolute;
   top: 812px;
   left: 670px;
 }
-.uprh5{
+.uprh5 {
   position: absolute;
   top: 852px;
   left: 655px;
   font-family: sans-serif;
   font-weight: 800;
 }
-.uprp1{
+.uprp1 {
   position: absolute;
   top: 876px;
   left: 656px;
   text-align: left;
-  color: #9E9DA2;
+  color: #9e9da2;
 }
-.circle{
-  border: 1px solid #75BF7A;
+.circle {
+  border: 1px solid #75bf7a;
   width: 250px;
   height: 250px;
-  background-color: #75BF7A;
+  background-color: #75bf7a;
   position: absolute;
   top: 836px;
   left: 377px;
   border-radius: 100%;
 }
-.imgcir-3{
+.imgcir-3 {
   width: 40px;
   position: absolute;
   top: 1000px;
   left: 306px;
 }
-.imgcir3{
+.imgcir3 {
   width: 12px;
   position: absolute;
   top: 1012px;
   left: 320px;
 }
-.dwlh5{
+.dwlh5 {
   position: absolute;
   top: 1056px;
   left: 158px;
   font-family: sans-serif;
   font-weight: 800;
 }
-.dwlh1{
+.dwlh1 {
   position: absolute;
   top: 1084px;
   left: 154px;
   text-align: right;
-  color: #9E9DA2;
+  color: #9e9da2;
 }
-.imgcir-4{
+.imgcir-4 {
   width: 40px;
   position: absolute;
   top: 1000px;
   left: 655px;
 }
-.imgcir4{
+.imgcir4 {
   width: 12px;
   position: absolute;
   top: 1013px;
   left: 669px;
 }
-.dwrh5{
+.dwrh5 {
   position: absolute;
   top: 1059px;
   left: 654px;
   font-family: sans-serif;
   font-weight: 800;
 }
-.dwrh1{
+.dwrh1 {
   position: absolute;
   top: 1084px;
   left: 655px;
   text-align: left;
-  color: #9E9DA2;
+  color: #9e9da2;
 }
-.dots{
+.dots {
   position: absolute;
   top: 1170px;
   left: 470px;
 }
-.terelogo{
+.terelogo {
   position: absolute;
   top: 1250px;
   left: 350px;
 }
-.container{
+.container {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -302,7 +302,7 @@ fieldset {
   position: relative;
   height: 100vh;
 }
-.centered-border{
+.centered-border {
   border: 1px solid black;
   padding: 20px;
   width: 700px;
@@ -310,22 +310,25 @@ fieldset {
   position: absolute;
   bottom: 530%;
   left: 13%;
+  background-color: #f1f0f0;
+  border: #f1f0f0;
+  border-radius: 10px;
 }
-.runningman{
+.runningman {
   width: 140px;
   height: 150px;
   position: absolute;
   top: 0px;
   left: 480px;
 }
-.img01{
+.img01 {
   width: 40px;
   height: 25px;
   position: absolute;
   top: 33px;
   left: 21px;
 }
-.flexible{
+.flexible {
   font-size: 34px;
   line-height: 26px;
   font-weight: 500;
@@ -333,11 +336,61 @@ fieldset {
   top: 27px;
   left: 67px;
 }
-.working{
+.working {
   font-size: 17px;
   position: absolute;
   top: 95px;
   left: 70px;
   line-height: 19px;
-  color: #9E9DA2;
+  color: #9e9da2;
+}
+.container2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  position: relative;
+  height: 100vh;
+}
+.centered-border2 {
+  border: 1px solid black;
+  padding: 20px;
+  width: 700px;
+  height: 110px;
+  position: absolute;
+  bottom: 600%;
+  left: 20%;
+  background-color: #f1f0f0;
+  border: #f1f0f0;
+  border-radius: 10px;
+}
+.money {
+  width: 140px;
+  height: 150px;
+  position: absolute;
+  top: 0px;
+  left: 120px;
+}
+.img02 {
+  width: 40px;
+  height: 25px;
+  position: absolute;
+  top: 33px;
+  left: 490px;
+}
+.earning {
+  font-size: 34px;
+  line-height: 26px;
+  font-weight: 500;
+  position: absolute;
+  top: 32px;
+  left: 535px;
+}
+.bydriving {
+  font-size: 17px;
+  position: absolute;
+  top: 75px;
+  left: 490px;
+  line-height: 19px;
+  color: #9e9da2;
 }
