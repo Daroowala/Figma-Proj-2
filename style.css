@@ -211,14 +211,14 @@ fieldset {
 .uprh5{
   position: absolute;
   top: 852px;
-  left: 659px;
+  left: 655px;
   font-family: sans-serif;
   font-weight: 800;
 }
 .uprp1{
   position: absolute;
   top: 876px;
-  left: 659px;
+  left: 656px;
   text-align: left;
   color: #9E9DA2;
 }
@@ -253,8 +253,34 @@ fieldset {
 }
 .dwlh1{
   position: absolute;
-  top: 1085px;
+  top: 1084px;
   left: 154px;
   text-align: right;
+  color: #9E9DA2;
+}
+.imgcir-4{
+  width: 40px;
+  position: absolute;
+  top: 1000px;
+  left: 655px;
+}
+.imgcir4{
+  width: 12px;
+  position: absolute;
+  top: 1013px;
+  left: 669px;
+}
+.dwrh5{
+  position: absolute;
+  top: 1059px;
+  left: 654px;
+  font-family: sans-serif;
+  font-weight: 800;
+}
+.dwrh1{
+  position: absolute;
+  top: 1084px;
+  left: 655px;
+  text-align: left;
   color: #9E9DA2;
 }
