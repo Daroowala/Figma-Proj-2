@@ -232,3 +232,29 @@ fieldset {
   left: 377px;
   border-radius: 100%;
 }
+.imgcir-3{
+  width: 40px;
+  position: absolute;
+  top: 1000px;
+  left: 306px;
+}
+.imgcir3{
+  width: 12px;
+  position: absolute;
+  top: 1012px;
+  left: 320px;
+}
+.dwlh5{
+  position: absolute;
+  top: 1056px;
+  left: 158px;
+  font-family: sans-serif;
+  font-weight: 800;
+}
+.dwlh1{
+  position: absolute;
+  top: 1085px;
+  left: 154px;
+  text-align: right;
+  color: #9E9DA2;
+}
