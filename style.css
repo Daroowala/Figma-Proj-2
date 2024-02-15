@@ -325,7 +325,7 @@ fieldset {
   width: 40px;
   height: 25px;
   position: absolute;
-  top: 33px;
+  top: 28px;
   left: 21px;
 }
 .flexible {
@@ -365,10 +365,10 @@ fieldset {
   border-radius: 10px;
 }
 .money {
-  width: 140px;
-  height: 150px;
+  width: 130px;
+  height: 135px;
   position: absolute;
-  top: 0px;
+  top: 14px;
   left: 120px;
 }
 .img02 {
@@ -393,4 +393,65 @@ fieldset {
   left: 490px;
   line-height: 19px;
   color: #9e9da2;
+}
+.container3{
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+position: absolute;
+height: 100vh;
+}
+.centered-border3{
+border: 1px solid black ;
+padding: 20px;
+  width: 700px;
+  height: 110px;
+  position: relative;
+  bottom: 632%;
+  left: 17%;
+  background-color: #f1f0f0;
+  border: #f1f0f0;
+  border-radius: 10px;
+}
+.microfone{
+  width: 140px;
+  height: 160px;
+  position: absolute;
+  top: 0px;
+  left: 530px;
+}
+.mobile{
+  width: 140px;
+  height: 290px;
+  position: absolute;
+  top: -50px;
+  left: 190px;
+  z-index: -1;
+}
+.no03{
+  width: 40px;
+  height: 25px;
+  position: absolute;
+  top: 17px;
+  left: 24px;
+}
+.Customer{
+  font-size: 34px;
+  line-height: 26px;
+  font-weight: 500;
+  position: absolute;
+  top: 17px;
+  left: 67px;
+}
+.provider{
+  font-size: 17px;
+  position: absolute;
+  top: 80px;
+  left: 67px;
+  line-height: 19px;
+  color: #9e9da2;
+}
+.smallogo{
+  
 }
