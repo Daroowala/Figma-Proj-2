@@ -602,4 +602,32 @@ padding: 20px;
     top: 1075px;
     left: 110px;
   }
+  .app{
+    position: absolute;
+    top: 1070px;
+    left: 53px;
+  }
+  .circle{
+    position: absolute;
+    top: 1140px;
+    left: 85px;
+  }
+  .mobile{
+    position: absolute;
+    top: -1394px;
+    left: 7px;
+    height: 334px;
+    width: 150px;
+    z-index: auto;
+  }
+  .dots{
+    position: absolute;
+    top: 1475px;
+    left: 176px;
+  }
+  .terelogo{
+    position: absolute;
+    top: 1580px;
+    left: 60px;
+  }
 }
