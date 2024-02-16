@@ -518,7 +518,8 @@ padding: 20px;
 @media (max-width: 420px){
   .help{
     position: relative;
-    left: -241px;
+    left: -478px;
+    top: 34px;
   }
   .img1{
     width: 75px;
@@ -526,6 +527,79 @@ padding: 20px;
   }
   .home{
     position: absolute;
-    left: 185px;
+    left: 149px;
+    top: 40px;
+  }
+  .How-tere-work{
+    position: absolute;
+    left: 203px;
+    top: 40px;
+  }
+  .Tere-benefits{
+    position: absolute;
+    left: 311px;
+    top: 40px; 
+  }
+  .vct1 {
+    position: absolute;
+    top: 0px;
+    left: -447px;
+  }
+  .im2{
+    position: absolute;
+    top: 0px;
+    left: -377px;
+  }
+  .sun{
+    position: absolute;
+    top: 59px;
+    left: -239px;
+  }
+  .im3{
+    position: absolute;
+    top: 200px;
+    left: -447px;
+  }
+  h1{
+    position: absolute;
+    top: 441px;
+    left: 51px;
+  }
+  .note{
+    position: absolute;
+    top: 585px;
+    left: 53px;
+  }
+  .play1{
+    position: absolute;
+    top: 671px;
+    left: 52px;
+  }
+  .play2{
+    position: absolute;
+    top: 671px;
+    left: 224px;
+  }
+  fieldset{
+    position: absolute;
+    top: 775px;
+    left: 52px;
+    width: 320px;
+    height: 249px;
+  }
+  .in1{
+    position: absolute;
+    top: 95px;
+    left: 9px
+  }
+  .drive{
+    position: absolute;
+    top: 163px;
+    left: 52px;
+  }
+  .how{
+    position: absolute;
+    top: 1075px;
+    left: 110px;
   }
 }
