@@ -477,11 +477,26 @@ padding: 20px;
 .smallogo{
   margin: 0px 60px;
   width: 100px;
-  
+  position: absolute;
+  top: 47px;
 }
 .befriend1{
-  margin: -23px 222px;
+  display: flex;
+  margin: 3px 222px;
+  color: #8B8BA5
 }
 .befriend2{
-  margin: 4px 410px;
+  display: flex;
+  margin: -23px 408px;
+  color: #8B8BA5
+}
+.season{
+  margin: 35px 222px;
+  line-height: 28px ;
+  color: #8B8BA5
+}
+.jakarta{
+  margin: -119px 408px;
+  line-height: 28px ;
+  color: #8B8BA5
 }
