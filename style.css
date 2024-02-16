@@ -12,6 +12,7 @@
     height: 120px;
     border: 1px solid black; */
 }
+
 .img1 {
   margin: 25px 0px -8px 50px;
 }
@@ -452,6 +453,35 @@ padding: 20px;
   line-height: 19px;
   color: #9e9da2;
 }
+
+.container4{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  position: absolute;
+  height: 100vh;
+  }
+  .centered-border4{
+  border: 1px solid black ;
+  padding: 20px;
+    width: 965px;
+    height: 110px;
+    position: relative;
+    bottom: 580%;
+    left: auto;
+    /* background-color: #f1f0f0; */
+    /* border: #f1f0f0; */
+    /* border-radius: 10px; */
+  }
 .smallogo{
+  margin: 0px 60px;
+  width: 100px;
   
+}
+.befriend1{
+  margin: -23px 222px;
+}
+.befriend2{
+  margin: 4px 410px;
 }
