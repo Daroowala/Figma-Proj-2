@@ -614,8 +614,8 @@ padding: 20px;
   }
   .mobile{
     position: absolute;
-    top: -1394px;
-    left: 7px;
+    top: -2946px;
+    left: 46px;
     height: 334px;
     width: 150px;
     z-index: auto;
@@ -629,5 +629,153 @@ padding: 20px;
     position: absolute;
     top: 1580px;
     left: 60px;
+  }
+  .imgcir1{
+    position: absolute;
+    top: 1682px;
+    left: 196px;
+    width: 17px;
+  }
+  .imgcir{
+    position: absolute;
+    top: 1664px;
+    left: 171px;
+    width: 70px;
+  }
+  .uplh5{
+    position: absolute;
+    top: 1750px;
+    left: 99px;
+    font-size: x-large;
+  }
+  .uplp1{
+    position: absolute;
+    top: 1800px;
+    left: 82px;
+    font-size: x-large;
+    text-align: center;
+  }
+  .imgcir2{
+    position: absolute;
+    top: 2000px;
+    left: 195px;
+    width: 24px;
+  }
+  .imgcir-2 {
+    position: absolute;
+    top: 1982px;
+    left: 170px;
+    width: 74px;
+  }
+  .uprh5{
+    position: absolute;
+    top: 2070px;
+    left: 119px;
+    font-size: x-large
+  }
+  .uprp1{
+    position: absolute;
+    top: 2116px;
+    left: 82px;
+    font-size: x-large;
+    text-align: center; 
+  }
+  .imgcir3{
+    position: absolute;
+    top: 2285px;
+    left: 195px;
+    width: 24px;
+  }
+  .imgcir-3{
+    position: absolute;
+    top: 2264px;
+    left: 170px;
+    width: 74px;
+  }
+  .centered-border{
+    position: absolute;
+    top: -1140px;
+    left: 90px;
+    width: 320px;
+    height: 477px;
+  }
+  .runningman{
+    position: absolute;
+    top: 91px;
+    left: 34px;
+    width: 250px;
+    height: 250px;
+  }
+  .working{
+    position: absolute;
+    top: 387px;
+    left: 12px;
+    font-size: 22px;
+    text-align: center;
+  }
+  .flexible{
+    left: 96px;
+  }
+  .img01{
+    left: 41px;
+  }
+  .centered-border2{
+    position: absolute;
+    top: -994px;
+    left: 90px;
+    width: 320px;
+    height: 477px;
+  }
+  .money{
+    position: absolute;
+    top: 91px;
+    left: 45px;
+    width: 250px;
+    height: 250px;
+  }
+  .earning{
+    left: 96px;
+  }
+  .img02{
+    left: 41px; 
+  }
+  .bydriving{
+    position: absolute;
+    top: 373px;
+    left: 50px;
+    font-size: 22px;
+    text-align: center;
+  }
+  .centered-border3{
+    position: absolute;
+    top: -848px;
+    left: 90px;
+    width: 320px;
+    height: 477px;
+  }
+  .microfone{
+    position: absolute;
+    top: 91px;
+    left: 45px;
+    width: 250px;
+    height: 250px;
+  }
+  .no03{
+    left: 25px;
+    top: 40px;
+  }
+  .Customer{
+    position: absolute;
+    top: 42px;
+    left: 75px;
+    width: 250px;
+    height: 250px;
+  }
+  .provider{
+    position: absolute;
+    top: 353px;
+    left: 3px;
+    font-size: 22px;
+    text-align: center;
   }
 }
