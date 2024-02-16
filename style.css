@@ -470,9 +470,9 @@ padding: 20px;
     position: relative;
     bottom: 580%;
     left: auto;
-    /* background-color: #f1f0f0; */
-    /* border: #f1f0f0; */
-    /* border-radius: 10px; */
+    background-color: #f1f0f0;
+    border: #f1f0f0;
+    border-radius: 10px;
   }
 .smallogo{
   margin: 0px 60px;
@@ -499,4 +499,18 @@ padding: 20px;
   margin: -119px 408px;
   line-height: 28px ;
   color: #8B8BA5
+}
+.play3{
+  position: absolute;
+  top: 30%;
+  left: 60% ;
+  width: 160px;
+  height: 54px;
+}
+.play4{
+  position: absolute;
+  top: 30% ;
+  left: 80%;
+  width: 160px;
+  height: 54px;
 }
