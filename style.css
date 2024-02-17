@@ -486,21 +486,21 @@ padding: 20px;
   margin: 3px 222px;
   color: #8B8BA5
 }
-.befriend2{
+/* .befriend2{
   display: flex;
   margin: -23px 408px;
   color: #8B8BA5
-}
-.season{
-  margin: 35px 222px;
+} */
+/* .season{
+  margin: 10px 222px;
   line-height: 28px ;
   color: #8B8BA5
-}
-.jakarta{
+} */
+/* .jakarta{
   margin: -119px 408px;
   line-height: 28px ;
   color: #8B8BA5
-}
+} */
 .play3{
   position: absolute;
   top: 30%;
@@ -614,8 +614,8 @@ padding: 20px;
   }
   .mobile{
     position: absolute;
-    top: -2868px;
-    left: 46px;
+    top: -2738px;
+    left: 94px;
     height: 334px;
     width: 150px;
     z-index: auto;
@@ -728,10 +728,18 @@ padding: 20px;
     left: 88px;
     font-size: x-large
   }
+  .dwrh1{
+  position: absolute;
+  top: 2700px;
+  left: 87px;
+  font-size: x-large;
+  text-align: center;
+  color: #9e9da2;
+  }
   .centered-border{
     position: absolute;
-    top: -1140px;
-    left: 90px;
+    top: -1281px;
+    left: 40px;
     width: 320px;
     height: 477px;
   }
@@ -757,8 +765,8 @@ padding: 20px;
   }
   .centered-border2{
     position: absolute;
-    top: -994px;
-    left: 90px;
+    top: -1254px;
+    left: 42px;
     width: 320px;
     height: 477px;
   }
@@ -784,8 +792,8 @@ padding: 20px;
   }
   .centered-border3{
     position: absolute;
-    top: -848px;
-    left: 90px;
+    top: -1226px;
+    left: 43px;
     width: 320px;
     height: 477px;
   }
@@ -817,8 +825,8 @@ padding: 20px;
   
   .centered-border4{
     position: absolute;
-    top: -215px;
-    left: 90px;
+    top: -670px;
+    left: 43px;
     width: 320px;
     height: 477px;
   }
@@ -838,8 +846,11 @@ padding: 20px;
     top: 152px;
     left: 93px;
   }
-  .befriend1{
-    bottom: 0px;
-    left: 0px;
-  }
+  /* .befriend1{
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 210px;
+    left: 20px;
+  } */
 }
