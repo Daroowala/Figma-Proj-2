@@ -609,25 +609,30 @@ padding: 20px;
   }
   .circle{
     position: absolute;
-    top: 1140px;
+    top: 1223px;
     left: 85px;
   }
   .mobile{
     position: absolute;
-    top: -2946px;
+    top: -2868px;
     left: 46px;
     height: 334px;
     width: 150px;
     z-index: auto;
   }
+  .app{
+    position: absolute;
+    top: 1110px ;
+
+  }
   .dots{
     position: absolute;
-    top: 1475px;
+    top: 1546px;
     left: 176px;
   }
   .terelogo{
     position: absolute;
-    top: 1580px;
+    top: 1600px;
     left: 60px;
   }
   .imgcir1{
@@ -691,6 +696,37 @@ padding: 20px;
     top: 2264px;
     left: 170px;
     width: 74px;
+  }
+  .dwlh5{
+    position: absolute;
+    top: 2359px;
+    left: 119px;
+    font-size: x-large
+  }
+  .dwlh1{
+    position: absolute;
+    top: 2444px;
+    left: 82px;
+    font-size: x-large;
+    text-align: center;
+  }
+  .imgcir4{
+    position: absolute;
+    top: 2572px;
+    left: 195px;
+    width: 24px;
+  }
+  .imgcir-4{
+    position: absolute;
+    top: 2550px;
+    left: 170px;
+    width: 74px;
+  }
+  .dwrh5{
+    position: absolute;
+    top: 2645px;
+    left: 88px;
+    font-size: x-large
   }
   .centered-border{
     position: absolute;
@@ -777,5 +813,33 @@ padding: 20px;
     left: 3px;
     font-size: 22px;
     text-align: center;
+  }
+  
+  .centered-border4{
+    position: absolute;
+    top: -215px;
+    left: 90px;
+    width: 320px;
+    height: 477px;
+  }
+  .smallogo{
+    position: absolute;
+    top: 34px;
+    left: 48px;
+    width: 131px;
+    height: 47px;
+    
+  }
+  .play3{
+    top: 100px;
+    left: 93px;
+  }
+  .play4{
+    top: 152px;
+    left: 93px;
+  }
+  .befriend1{
+    bottom: 0px;
+    left: 0px;
   }
 }
